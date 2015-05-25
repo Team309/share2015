@@ -4,7 +4,7 @@
 
 ## 专题：
 
-0. [ ] 学习心态
+0. [X] [学习心态](./attitude.md)
 1. [X] [搜索](./search.md)
 2. [X] [vim](./vim.md)
 3. [X] [常用网站](./website.md)
@@ -12,3 +12,4 @@
 5. [ ] 后台开发栈
 6. [X] [英语学习](./english.md)
 7. [X] [ustor新人培训文档](./rookie.md)
+8. [ ] 书籍推荐
