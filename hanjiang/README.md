@@ -8,10 +8,10 @@
 ## 目录
 1. [ ] [前端简介](./aboutweb.md)
 2. [ ] [基础技能](./basic.md)
-3. [ ] [前端库/工具/框架](./tool.md)
+3. [ ] [前端库/框架](./tool.md)
 4. [ ] [兼容性](./ie.md)
 5. [ ] [前端性能](./speed.md)
-6. [ ] [nodeJS](./nodejs.md)
+6. [ ] [nodeJS及相关工具](./nodejs.md)
 7. [ ] [前端模块化](./module.md)
 8. [ ] [HTML5与CSS3](./html5.md)
 9. [ ] [移动web开发](./mobile.md)
