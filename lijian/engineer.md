@@ -1,11 +1,12 @@
 # 后台开发技能
 
-有没有后台开发这一说都是一个说法，这个职位是在腾讯中设置的，其它公司会设置为软件工程师(software engineer)。
+有没有后台开发这一说也是找工作时同公司定的，有的公司会设置为软件工程师(software engineer)。
+
+后台的开发技能我还不能很好的概括出来，不过参考实习时的培训文档，记下了一些要点。
 
 ## Linux 环境
 
 1. 常用linux 命令及工具
-
 
         系统、用户信息：uname  finger id  whoami  ulimit
         用户管理：useradd usermod passwd 
@@ -34,6 +35,8 @@
         变量赋值：set export declare alias
         慎用：shutdown reboot
 
+可以参考鸟哥的私房菜学习。
+
 ## Shell 编程
 
 1. 基础shell编程
@@ -60,10 +63,15 @@
 4. 共享内存
 5. 管道
 
+参考《Unix环境高级编程》
+
 ## 数据库编程
 
 1. SQL 语法， 
 2. mysql 安装，启停
 3. mysql C API 编写程序
 4. 了解innoDB
-5. 库表设计，查询优化
+
+# 参考
+
+1. [Frontend Knowledge Structure](http://html5ify.com/fks/)
