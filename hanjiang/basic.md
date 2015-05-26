@@ -4,10 +4,10 @@
 
 ## HTML
 熟练掌握常用的html标签是前端工程师的基本要求。在W3CSCHOOL上有完整的html标签学习资料：  
-[HTML 教程](http://www.w3school.com.cn/html/)  
-在HTML5中新增的标签：[http://www.w3school.com.cn/tags/index.asp](http://www.w3school.com.cn/tags/index.asp)  
-* 标签语义化：合理使用html标签，例如当html内容为无序列表时就使用ul和li标签，为标题时变使用h标签。不要为了布局方便滥用div标签。
-* 内容与样式分离：在HTML代码中尽量不要出现内嵌的样式代码，同样，避免javascript代码直接写在HTML内容中。应该将javascript和css作为外链文件。
+* [HTML 教程](http://www.w3school.com.cn/html/)  
+* 在HTML5中新增的标签：[http://www.w3school.com.cn/tags/index.asp](http://www.w3school.com.cn/tags/index.asp)  
+* 标签语义化：合理使用html标签，例如当html内容为无序列表时就使用ul和li标签，为标题时变使用h标签。不要为了布局方便滥用div标签。  
+* 内容与样式分离：在HTML代码中尽量不要出现内嵌的样式代码，同样，避免javascript代码直接写在HTML内容中。应该将javascript和css作为外链文件。  
 
 ## CSS
 学会使用CSS进行基本的布局。理解常用的css属性以及其机制。了解常见的浏览器兼容问题。  
@@ -20,6 +20,6 @@ javascript是前端开发最常用也是最重要的编程语言。熟练地使�
 
 ## 后台语言
 前端开发虽然不需要负责后台逻辑，但是为了测试以及和后台开发者交流方便，需要熟悉一至少一种后台语言。推荐后台语言如下：
-1. php
-2. python
-3. javascript(nodeJS)
+1. php  
+2. python  
+3. javascript(nodeJS)  
