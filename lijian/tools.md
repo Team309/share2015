@@ -95,6 +95,7 @@ Linux 下就是主要介绍一些命令行的工具，这个在windowns下用[cy
 :--- | :---
 功能：| 代码版本控制
 说明：| 还有这么多人不用版本控制，:cry:
+教程：| [my-git](https://github.com/xirong/my-git)
 
 ## Mac OSX
 
